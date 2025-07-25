@@ -20,7 +20,7 @@ Este projeto é um frontend em React para gerenciamento de veículos, desenvolvi
 1. **Clone o repositório:**
 
    ```sh
-   git clone https://github.com/fcursino/fabriciocursino/veiculos-spa.git
+   git clone https://github.com/fabriciocursino/veiculos-spa.git
    cd veiculos-spa
 
 2. **Instale as dependências:**
